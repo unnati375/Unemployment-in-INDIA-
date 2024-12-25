@@ -33,4 +33,4 @@ ployed as a percentage of the total labor force. We have seen a sharp increase i
  • How does the unemployment rate vary by region in India?\
  • How does the unemployment rate vary by both region and area (urban/rural)?\
  • How does the unemployment rate vary between the years 2019 and 2020?\
- • Which variable is strongly correlated with the unemployment rate ?\
+ • Which variable is strongly correlated with the unemployment rate ?
