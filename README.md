@@ -1,6 +1,6 @@
 # Unemployment-in-INDIA-
-Data Analysis project on unemployment in INDIA\
-## 1 Introduction\
+Data Analysis project on unemployment in INDIA
+## 1 Introduction
  ### 1.1 Abstract\
  Unemployment is a persistent problem in India, with significant social and economic consequences. This
  paper provides an overview of the state of unemployment in India before and after COVID-19, including
